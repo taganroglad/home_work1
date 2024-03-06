@@ -12,3 +12,4 @@ else:
         print(f'{number} - простое число')
     else:
         print(f'{number} - составное число')
+#
